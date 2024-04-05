@@ -29,6 +29,7 @@ def main():
     memory=ConversationBufferWindowMemory(k=conversational_memory_length)
 
     user_question = st.text_area("Ask a question:")
+    submit_button = st.button("Submit")
 
     # session state variable
     if 'chat_history' not in st.session_state:
