@@ -1,6 +1,6 @@
-# Groq Chat App
+# GroqTalk-Conversational-Companion-with-LLM
 
-![Screenshot of Groq Chat App](screenshot.png)
+![Groq Chat App](https://github.com/rajuaiml777/GroqTalk-Conversational-Companion-with-LLM/blob/main/Picture1.png)
 
 ## Overview
 
